@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "jordan blue ",
+        "price": 5000,
+        "description": "jordan limit",
+        "img": "img",
+        "stock": 19
+    },
+    {
+        "id": 2,
+        "title": "addidas boom",
+        "description": "addidas boom black limit",
+        "price": 1500,
+        "stock": 8,
+        "img": "imagen"
+    },
+    {
+        "id": 3,
+        "title": "pumas",
+        "description": "pumas grey limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 4,
+        "title": "topper",
+        "description": "topper limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 5,
+        "title": "nike air force",
+        "description": "nike air force limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 6,
+        "title": "addidas clasic",
+        "description": "addidas clasic limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 7,
+        "title": "pumas black and white",
+        "description": "pumas black and white limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 8,
+        "title": "pumas clasic",
+        "description": "pumas clasic limit",
+        "price": 1300,
+        "stock": 3,
+        "img": "imagen"
+    },
+    {
+        "id": 9,
+        "title": "jordan red ",
+        "description": "jordan limit",
+        "img": "img",
+        "price": 5000,
+        "stock": 19
+    }
+]
